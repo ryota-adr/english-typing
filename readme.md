@@ -1,3 +1,3 @@
 ## 英語写経アプリ
 
-[デモ](http://localhost/TestPHP/MyApp/typing/)
+[デモ](http://ryota01.com/typing/)
